@@ -1,0 +1,226 @@
+== Large itemsets (min_sup=0.5%)
+[A], 51.3%
+[MANHATTAN], 41.3%
+[B], 28.4%
+[American], 23.9%
+[BROOKLYN], 23.3%
+[QUEENS], 22.7%
+[A,MANHATTAN], 21.5%
+[C], 15.6%
+[A,American], 13.4%
+[American,MANHATTAN], 13.0%
+[Chinese], 11.8%
+[A,BROOKLYN], 11.6%
+[B,MANHATTAN], 11.4%
+[A,QUEENS], 11.3%
+[BRONX], 9.5%
+[A,American,MANHATTAN], 7.3%
+[B,QUEENS], 6.9%
+[BROOKLYN,B], 6.7%
+[C,MANHATTAN], 6.6%
+[American,B], 6.1%
+[Pizza], 5.5%
+[Latin (Cuban Dominican Puerto Rican South & Central American)], 5.2%
+[Italian], 4.8%
+[BRONX,A], 4.8%
+[A,Chinese], 4.6%
+[BROOKLYN,American], 4.5%
+[B,Chinese], 4.2%
+[American,QUEENS], 4.0%
+[BROOKLYN,C], 3.7%
+[Z], 3.6%
+[BROOKLYN,Chinese], 3.6%
+[C,QUEENS], 3.5%
+[American,C], 3.4%
+[Chinese,QUEENS], 3.4%
+[American,B,MANHATTAN], 3.3%
+[Bakery], 3.3%
+[STATENISLAND], 3.2%
+[Cafe/Coffee/Tea], 3.2%
+[Japanese], 3.2%
+[Mexican], 3.1%
+[Caribbean], 3.0%
+[A,Pizza], 2.9%
+[MANHATTAN,Italian], 2.9%
+[MANHATTAN,Chinese], 2.9%
+[BRONX,B], 2.7%
+[A,BROOKLYN,American], 2.5%
+[A,Italian], 2.4%
+[C,Chinese], 2.3%
+[Spanish], 2.3%
+[A,Cafe/Coffee/Tea], 2.2%
+[A,American,QUEENS], 2.2%
+[A,STATENISLAND], 2.1%
+[A,Latin (Cuban Dominican Puerto Rican South & Central American)], 2.0%
+[MANHATTAN,Japanese], 1.9%
+[Pizza/Italian], 1.9%
+[American,C,MANHATTAN], 1.9%
+[Delicatessen], 1.9%
+[Latin (Cuban Dominican Puerto Rican South & Central American),QUEENS], 1.8%
+[Hamburgers], 1.8%
+[MANHATTAN,Pizza], 1.8%
+[Cafe/Coffee/Tea,MANHATTAN], 1.8%
+[B,Latin (Cuban Dominican Puerto Rican South & Central American)], 1.7%
+[Sandwiches], 1.6%
+[A,Bakery], 1.6%
+[BRONX,American], 1.6%
+[B,Pizza], 1.6%
+[BRONX,C], 1.5%
+[BRONX,Chinese], 1.5%
+[Chicken], 1.5%
+[Donuts], 1.5%
+[A,BROOKLYN,Chinese], 1.5%
+[BROOKLYN,Caribbean], 1.5%
+[A,Japanese], 1.5%
+[BROOKLYN,Pizza], 1.5%
+[Indian], 1.4%
+[A,MANHATTAN,Italian], 1.4%
+[Asian], 1.4%
+[Z,MANHATTAN], 1.4%
+[B,Italian], 1.4%
+[A,Mexican], 1.4%
+[A,Caribbean], 1.3%
+[A,Chinese,QUEENS], 1.3%
+[Thai], 1.3%
+[A,Hamburgers], 1.3%
+[Jewish/Kosher], 1.3%
+[A,Cafe/Coffee/Tea,MANHATTAN], 1.3%
+[BROOKLYN,B,Chinese], 1.3%
+[B,Chinese,QUEENS], 1.3%
+[Pizza,QUEENS], 1.2%
+[Latin (Cuban Dominican Puerto Rican South & Central American),MANHATTAN], 1.2%
+[A,Donuts], 1.2%
+[A,Sandwiches], 1.2%
+[C,Latin (Cuban Dominican Puerto Rican South & Central American)], 1.2%
+[BROOKLYN,B,American], 1.2%
+[French], 1.2%
+[BRONX,Latin (Cuban Dominican Puerto Rican South & Central American)], 1.2%
+[Korean], 1.1%
+[American,B,QUEENS], 1.1%
+[B,Japanese], 1.1%
+[Bakery,QUEENS], 1.1%
+[Mexican,MANHATTAN], 1.0%
+[P], 1.0%
+[Bakery,B], 1.0%
+[A,Spanish], 1.0%
+[B,MANHATTAN,Chinese], 1.0%
+[BROOKLYN,Z], 1.0%
+[A,Pizza/Italian], 1.0%
+[Bakery,MANHATTAN], 0.9%
+[BRONX,A,American], 0.9%
+[MANHATTAN,French], 0.9%
+[B,Caribbean], 0.9%
+[BROOKLYN,Latin (Cuban Dominican Puerto Rican South & Central American)], 0.9%
+[B,Mexican], 0.9%
+[A,MANHATTAN,Chinese], 0.9%
+[B,MANHATTAN,Italian], 0.9%
+[Delicatessen,MANHATTAN], 0.9%
+[Caribbean,QUEENS], 0.9%
+[BROOKLYN,Bakery], 0.9%
+[A,MANHATTAN,Pizza], 0.9%
+[BROOKLYN,Mexican], 0.9%
+[A,MANHATTAN,Japanese], 0.8%
+[BRONX,Pizza], 0.8%
+[C,MANHATTAN,Chinese], 0.8%
+[Spanish,QUEENS], 0.8%
+[A,Chicken], 0.8%
+[Other], 0.8%
+[A,Delicatessen], 0.8%
+[Sandwiches,MANHATTAN], 0.8%
+[Bagels/Pretzels], 0.8%
+[American,Z], 0.8%
+[A,BROOKLYN,Pizza], 0.8%
+[Irish], 0.8%
+[Z,QUEENS], 0.8%
+[Indian,MANHATTAN], 0.8%
+[American,STATENISLAND], 0.8%
+[BROOKLYN,Cafe/Coffee/Tea], 0.8%
+[Ice Cream Gelato Yogurt Ices], 0.8%
+[MANHATTAN,Asian], 0.7%
+[Thai,MANHATTAN], 0.7%
+[C,Pizza], 0.7%
+[BROOKLYN,Jewish/Kosher], 0.7%
+[A,Latin (Cuban Dominican Puerto Rican South & Central American),QUEENS], 0.7%
+[A,Pizza,QUEENS], 0.7%
+[Korean,QUEENS], 0.7%
+[BROOKLYN,Italian], 0.7%
+[C,Italian], 0.7%
+[BRONX,A,Chinese], 0.7%
+[B,STATENISLAND], 0.7%
+[Middle Eastern], 0.7%
+[Seafood], 0.7%
+[Mediterranean], 0.7%
+[B,Spanish], 0.7%
+[A,Jewish/Kosher], 0.7%
+[A,French], 0.6%
+[BROOKLYN,Japanese], 0.6%
+[Mexican,QUEENS], 0.6%
+[A,Sandwiches,MANHATTAN], 0.6%
+[Cafe/Coffee/Tea,B], 0.6%
+[C,Mexican], 0.6%
+[MANHATTAN,Hamburgers], 0.6%
+[C,BROOKLYN,American], 0.6%
+[BROOKLYN,C,Chinese], 0.6%
+[B,MANHATTAN,Japanese], 0.6%
+[Latin (Cuban Dominican Puerto Rican South & Central American),B,QUEENS], 0.6%
+[C,Caribbean], 0.6%
+[A,Ice Cream Gelato Yogurt Ices], 0.6%
+[A,BROOKLYN,Caribbean], 0.6%
+[Sandwiches/Salads/Mixed Buffet], 0.6%
+[B,Pizza/Italian], 0.6%
+[Delicatessen,B], 0.6%
+[C,Chinese,QUEENS], 0.6%
+[American,C,QUEENS], 0.6%
+[A,Other], 0.6%
+[BROOKLYN,Spanish], 0.6%
+[QUEENS,Italian], 0.6%
+[Pizza/Italian,QUEENS], 0.6%
+[A,Thai], 0.5%
+[A,Asian], 0.5%
+[BRONX,B,Chinese], 0.5%
+[Tex-Mex], 0.5%
+[A,MANHATTAN,French], 0.5%
+[A,Mexican,MANHATTAN], 0.5%
+[Irish,MANHATTAN], 0.5%
+[B,MANHATTAN,Pizza], 0.5%
+[Indian,B], 0.5%
+[A,Bakery,QUEENS], 0.5%
+[C,Japanese], 0.5%
+[A,American,STATENISLAND], 0.5%
+[A,Indian], 0.5%
+[A,Bakery,MANHATTAN], 0.5%
+[Greek], 0.5%
+
+
+==High-confidence association rules (min_conf=55.0%)
+[A,French] => [MANHATTAN] (Conf: 81.0%, Supp: 0.5%)
+[Ice Cream Gelato Yogurt Ices] => [A] (Conf: 80.5%, Supp: 0.6%)
+[French] => [MANHATTAN] (Conf: 79.8%, Supp: 0.9%)
+[Donuts] => [A] (Conf: 78.9%, Supp: 1.2%)
+[Sandwiches,MANHATTAN] => [A] (Conf: 77.3%, Supp: 0.6%)
+[Cafe/Coffee/Tea,MANHATTAN] => [A] (Conf: 73.3%, Supp: 1.3%)
+[Hamburgers] => [A] (Conf: 72.9%, Supp: 1.3%)
+[Other] => [A] (Conf: 72.0%, Supp: 0.6%)
+[Sandwiches] => [A] (Conf: 72.0%, Supp: 1.2%)
+[Cafe/Coffee/Tea] => [A] (Conf: 68.5%, Supp: 2.2%)
+[American,STATENISLAND] => [A] (Conf: 67.4%, Supp: 0.5%)
+[Irish] => [MANHATTAN] (Conf: 66.7%, Supp: 0.5%)
+[STATENISLAND] => [A] (Conf: 65.0%, Supp: 2.1%)
+[B,Italian] => [MANHATTAN] (Conf: 63.8%, Supp: 0.9%)
+[Korean] => [QUEENS] (Conf: 62.7%, Supp: 0.7%)
+[Italian] => [MANHATTAN] (Conf: 61.7%, Supp: 2.9%)
+[Japanese] => [MANHATTAN] (Conf: 60.3%, Supp: 1.9%)
+[B,Japanese] => [MANHATTAN] (Conf: 58.4%, Supp: 0.6%)
+[A,Cafe/Coffee/Tea] => [MANHATTAN] (Conf: 58.4%, Supp: 1.3%)
+[A,Italian] => [MANHATTAN] (Conf: 58.3%, Supp: 1.4%)
+[Pizza,QUEENS] => [A] (Conf: 58.2%, Supp: 0.7%)
+[BRONX,American] => [A] (Conf: 57.6%, Supp: 0.9%)
+[A,Japanese] => [MANHATTAN] (Conf: 57.4%, Supp: 0.8%)
+[MANHATTAN,French] => [A] (Conf: 56.5%, Supp: 0.5%)
+[American] => [A] (Conf: 56.2%, Supp: 13.4%)
+[American,MANHATTAN] => [A] (Conf: 55.9%, Supp: 7.3%)
+[BROOKLYN,American] => [A] (Conf: 55.7%, Supp: 2.5%)
+[American,C] => [MANHATTAN] (Conf: 55.7%, Supp: 1.9%)
+[French] => [A] (Conf: 55.6%, Supp: 0.6%)
+[Thai] => [MANHATTAN] (Conf: 55.5%, Supp: 0.7%)
+[Jewish/Kosher] => [BROOKLYN] (Conf: 55.1%, Supp: 0.7%)
